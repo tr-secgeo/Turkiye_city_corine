@@ -1,4 +1,6 @@
 # Akıllı Şehir kapsamında düzenlediğimiz, Aksaray ilimize ait arazi örtüsünü sorgulayabileceğimiz tematik harita oluşturma projesidir.
+
+Sahada gezinirken anlık konum bilgisi ile birlikte arazi örtüsü bilgisine ulaşma imkanı sunan bir model uygulamadır.
  
 Arazi Örtüsü: Arazinin biyolojik veya fiziksel öğelerle kaplanmış halini ifade etmektedir. Örneğin, doğal makilik alanlar, doğal kayalıklar, doğal çayırlıklar vb. 
 

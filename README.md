@@ -19,5 +19,5 @@ Aksaray İlimize ait, Avrupa Çevre Ajansı nın ürettiği Arazi Örtüsü/Kull
      - git config user.name
      - git config user.email
      - git remote -v
-     - git remote add origin "https://github.com/tr-secgeo/virtual_reality-terrain.git" 
+     - git remote add origin "https://github.com/tr-secgeo/Turkiye_city_corine.git" 
      - git push -u origin main

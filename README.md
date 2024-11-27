@@ -6,7 +6,7 @@ Arazi Kullanımı: İnsan etkisi ile ortaya çıkan arazi kullanımlarını ifad
 
 CORINE (Coordination of Information on the Environment - Çevresel Bilginin Koordinasyonu), Avrupa Çevre Ajansı tarafından belirlenen Arazi Örtüsü/Kullanımı Sınıflandırmasına göre uydu görüntüleri üzerinden bilgisayar destekli görsel yorumlama metodu ile üretilen arazi örtüsü/kullanımını verisidir.
 
-Aksaray İlimize ait, Avrupa Çevre Ajansı nın ürettiği Arazi Örtüsü/Kullanımı verisinden faydalanarak oluşturduğumuz Tematik Haritayı sizlerle paylaşmayı ve çevremizi doğru kaynaklar ile bilgilendirmeyi bir görev biliriz...
+Aksaray İlimize ait, Avrupa Çevre Ajansı nın ürettiği Arazi Örtüsü/Kullanımı verisinden faydalanarak oluşturduğumuz sorgulanabilir Tematik Harita projesini inceleyebilirsiniz...
 
  NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağıdaki git komutlarını açtığımız bash terminalin de çalıştırırız;
 

@@ -562,9 +562,8 @@ map.addControl(bottomAttribution);
 
 var attributionList = document.createElement('li');
 attributionList.innerHTML = `
-	<a href="https://github.com/tomchadwin/qgis2web">qgis2web</a> &middot;
-	<a href="https://openlayers.org/">OpenLayers</a> &middot;
-	<a href="https://qgis.org/">QGIS</a>	
+	<a href="">İstanbul Arazi Örtüsü</a> &middot;
+	<a href="https://www.linkedin.com/in/seçgeo-apps-71a48118b/">ⓈeçGEO</a>	
 `;
 bottomAttribution.element.appendChild(attributionList);
 

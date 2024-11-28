@@ -562,7 +562,7 @@ map.addControl(bottomAttribution);
 
 var attributionList = document.createElement('li');
 attributionList.innerHTML = `
-	<a href=>İstanbul Arazi Örtüsü</a> &middot;
+	<a>İstanbul Arazi Örtüsü</a> &middot;
 	<a href="https://www.linkedin.com/in/seçgeo-apps-71a48118b/">ⓈeçGEO</a>	
 `;
 bottomAttribution.element.appendChild(attributionList);

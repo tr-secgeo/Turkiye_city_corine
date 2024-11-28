@@ -1,4 +1,4 @@
-# Akıllı Şehir kapsamında düzenlediğimiz, İstanbul meag kentimize ait arazi örtüsünü sorgulayabileceğimiz tematik harita oluşturma projesidir.
+# Akıllı Şehir kapsamında düzenlediğimiz, İstanbul mega kentimize ait arazi örtüsünü sorgulayabileceğimiz tematik harita oluşturma projesidir.
 
 Sahada gezinirken anlık konum bilgisi ile birlikte arazi örtüsü bilgisine ulaşma imkanı sunan bir model uygulamadır.
  
